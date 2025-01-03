@@ -1,0 +1,30 @@
+#Contact-modal{
+    background: rgba(192, 233, 240, 0.849);
+    width: 500px;
+    padding: 0 10px ;
+    padding-right:20px;
+
+}
+input{
+    width: 100%;
+}
+textarea{
+    width: 100%;
+    margin: 10px;
+}#submit{
+    width:12%;
+    padding:5px;
+    background: green;
+    color:white;
+    border:none;
+    transform: translateX(350px);
+    margin-bottom: 20px;
+}.button{
+    width:12%;
+    padding:5px;
+    background:white;
+    color:black;
+    border:none;
+    transform: translateX(340px);
+    margin-bottom: 20px;
+}
